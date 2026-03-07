@@ -1,0 +1,4 @@
+
+{"messages": [{"role": "user", "content": "帮我写一首关于 AI 的诗。"}, {"role": "assistant", "content": "硅片跳动智慧脉搏，代码编织逻辑长河..."}]}
+
+{"messages": [{"role": "user", "content": "什么是强化学习？"}, {"role": "assistant", "content": "强化学习是一种机器学习方法，通过与环境交互并获得奖励来学习最优策略。"}]}
