@@ -3,7 +3,7 @@ from trl import SFTConfig, SFTTrainer
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 # 1. 加载模型和分词器
-model_id = "facebook/opt-350m" # 练习建议用小模型，如 Qwen2-0.5B 或 OPT-350M
+model_id = " Qwen2-0.5B" # 练习建议用小模型，如 Qwen2-0.5B 或 OPT-350M
 tokenizer = AutoTokenizer.from_pretrained(model_id)
 tokenizer.pad_token = tokenizer.eos_token # 必须设置 pad_token
 
